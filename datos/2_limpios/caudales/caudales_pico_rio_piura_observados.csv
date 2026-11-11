@@ -1,0 +1,9 @@
+anio,lugar,caudal_pico_m3s,fecha,fuente,url,nota
+1983,Puente Sánchez Cerro,4000,1983,América TV,https://www.americatv.com.pe/noticias/actualidad/piura-proyecto-infraestructura-podria-evitado-inundaciones-n271344,"""cerca de 4000""; valor aproximado"
+1998,Puente Sánchez Cerro,3900,1998,J. Reyes (UDEP) vía La República 29-jul-2026,https://larepublica.pe/sociedad/2026/07/28/ingeniero-advierte-que-el-rio-piura-solo-puede-conducir-la-mitad-del-caudal-registrado-durante-el-nino-de-1998-1242444,En conflicto: Semana da 4400
+1998,Puente Sánchez Cerro,4400,1998,Semana,https://www.semana.com/peru-lluvias-del-nino-costero-sigue-haciendo-estragos/37429/,En conflicto: UDEP da ~3900
+2017,Presa Los Ejidos,3468,2017-03-27,Reyes et al. LACCEI 2020,https://laccei.org/LACCEI2020-VirtualEdition/full_papers/FP275.pdf,Medido; recalculado con niveles: 4023
+2017,Presa Los Ejidos,4023,2017-03-27,Reyes et al. LACCEI 2020,https://laccei.org/LACCEI2020-VirtualEdition/full_papers/FP275.pdf,Recálculo con los niveles registrados
+2017,Puente Sánchez Cerro,3100,2017-03,Funcionario citado por El Comercio,https://elcomercio.pe/peru/piura-ano-tragedia-situacion-actual-nino-costero-noticia-507536-noticia,En conflicto con 3400-3468
+2023,Puente Sánchez Cerro,1700,2023-03,Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,Aproximado
+referencia,Cauce urbano de Piura,1900,,J. Reyes (UDEP) / El Comercio,https://larepublica.pe/sociedad/2026/07/28/ingeniero-advierte-que-el-rio-piura-solo-puede-conducir-la-mitad-del-caudal-registrado-durante-el-nino-de-1998-1242444,Capacidad aproximada del cauce y umbral crítico de inundación en Sánchez Cerro

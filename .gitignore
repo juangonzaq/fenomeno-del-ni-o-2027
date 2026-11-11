@@ -1,0 +1,33 @@
+# --- Entorno de Python ---------------------------------------------------------
+# Se recrea con:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# --- Jupyter -------------------------------------------------------------------
+.ipynb_checkpoints/
+
+# --- Sistema y editores --------------------------------------------------------
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# --- Registros de descarga -----------------------------------------------------
+# Traen rutas de tu computadora y mensajes de error; no hacen falta para reproducir.
+*.log
+
+# --- Datos crudos (datos/1_crudos, ~610 MB) ------------------------------------
+# No se suben: los scripts 01 y 04 los vuelven a descargar (la base de INDECI se
+# baja a mano, ver README). Sí se suben el FUENTE.md de cada fuente y las cifras
+# copiadas a mano de informes, que no se pueden descargar.
+datos/1_crudos/**
+!datos/1_crudos/**/
+!datos/1_crudos/**/FUENTE.md
+!datos/1_crudos/Compilado_manual/*.csv
+
+# datos/2_limpios (~100 MB, ningún archivo pasa de 50 MB) SÍ se sube, para que los
+# notebooks corran apenas se clona el repositorio.

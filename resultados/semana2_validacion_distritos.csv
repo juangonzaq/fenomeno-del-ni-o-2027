@@ -1,0 +1,43 @@
+objetivo,anio,conjunto,modelo,roc_auc,pr_auc,acierto_top50,tasa_real,prob_media_predicha
+tuvo_damnificados,1998,antes,Línea base: historial,0.681,0.263,0.38,0.154,0.016
+tuvo_damnificados,1998,antes,Regresión logística,0.585,0.265,0.3,0.154,0.646
+tuvo_damnificados,1998,antes,Random Forest,0.742,0.394,0.44,0.154,0.134
+tuvo_damnificados,1998,antes,Gradient Boosting,0.693,0.283,0.32,0.154,0.434
+tuvo_damnificados,1998,escenario,Regresión logística,0.639,0.308,0.3,0.154,0.772
+tuvo_damnificados,1998,escenario,Random Forest,0.726,0.354,0.42,0.154,0.194
+tuvo_damnificados,1998,escenario,Gradient Boosting,0.664,0.277,0.34,0.154,0.642
+tuvo_damnificados,2017,antes,Línea base: historial,0.64,0.763,0.82,0.662,0.047
+tuvo_damnificados,2017,antes,Regresión logística,0.631,0.788,0.86,0.662,0.703
+tuvo_damnificados,2017,antes,Random Forest,0.634,0.786,0.88,0.662,0.202
+tuvo_damnificados,2017,antes,Gradient Boosting,0.64,0.796,0.9,0.662,0.466
+tuvo_damnificados,2017,escenario,Regresión logística,0.682,0.822,0.92,0.662,0.776
+tuvo_damnificados,2017,escenario,Random Forest,0.704,0.84,0.98,0.662,0.306
+tuvo_damnificados,2017,escenario,Gradient Boosting,0.662,0.83,0.98,0.662,0.572
+tuvo_damnificados,2023,antes,Línea base: historial,0.682,0.86,0.94,0.75,0.067
+tuvo_damnificados,2023,antes,Regresión logística,0.688,0.879,0.98,0.75,0.639
+tuvo_damnificados,2023,antes,Random Forest,0.697,0.874,0.96,0.75,0.325
+tuvo_damnificados,2023,antes,Gradient Boosting,0.756,0.91,1.0,0.75,0.595
+tuvo_damnificados,2023,escenario,Regresión logística,0.755,0.908,0.98,0.75,0.829
+tuvo_damnificados,2023,escenario,Random Forest,0.798,0.928,1.0,0.75,0.497
+tuvo_damnificados,2023,escenario,Gradient Boosting,0.767,0.915,0.98,0.75,0.853
+alta_incidencia,1998,antes,Línea base: historial,0.649,0.191,0.22,0.11,0.016
+alta_incidencia,1998,antes,Regresión logística,0.587,0.233,0.26,0.11,0.609
+alta_incidencia,1998,antes,Random Forest,0.697,0.285,0.26,0.11,0.098
+alta_incidencia,1998,antes,Gradient Boosting,0.667,0.194,0.16,0.11,0.364
+alta_incidencia,1998,escenario,Regresión logística,0.676,0.28,0.24,0.11,0.8
+alta_incidencia,1998,escenario,Random Forest,0.689,0.277,0.26,0.11,0.162
+alta_incidencia,1998,escenario,Gradient Boosting,0.601,0.141,0.14,0.11,0.671
+alta_incidencia,2017,antes,Línea base: historial,0.666,0.551,0.6,0.398,0.047
+alta_incidencia,2017,antes,Regresión logística,0.675,0.618,0.74,0.398,0.632
+alta_incidencia,2017,antes,Random Forest,0.632,0.568,0.66,0.398,0.069
+alta_incidencia,2017,antes,Gradient Boosting,0.65,0.585,0.7,0.398,0.267
+alta_incidencia,2017,escenario,Regresión logística,0.731,0.674,0.74,0.398,0.703
+alta_incidencia,2017,escenario,Random Forest,0.77,0.719,0.82,0.398,0.136
+alta_incidencia,2017,escenario,Gradient Boosting,0.771,0.735,0.84,0.398,0.48
+alta_incidencia,2023,antes,Línea base: historial,0.693,0.533,0.6,0.338,0.067
+alta_incidencia,2023,antes,Regresión logística,0.762,0.641,0.76,0.338,0.5
+alta_incidencia,2023,antes,Random Forest,0.817,0.665,0.76,0.338,0.137
+alta_incidencia,2023,antes,Gradient Boosting,0.806,0.679,0.8,0.338,0.472
+alta_incidencia,2023,escenario,Regresión logística,0.824,0.71,0.78,0.338,0.838
+alta_incidencia,2023,escenario,Random Forest,0.865,0.798,0.88,0.338,0.295
+alta_incidencia,2023,escenario,Gradient Boosting,0.849,0.743,0.84,0.338,0.627

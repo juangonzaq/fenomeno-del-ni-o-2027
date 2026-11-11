@@ -1,0 +1,6 @@
+escenario,modelo,predicho,p10,p90
+A: solo ICEN (ICEN recortado al máximo observado),A,907.5,462.0,1467.0
+A: solo ICEN (ICEN sin recortar),A,1001.3,525.0,1578.1
+B: lluvia normal,B,295.4,170.0,451.0
+B: lluvia como 2023,B,950.0,466.0,1505.0
+B: lluvia como 2017,B,967.1,434.0,1725.0

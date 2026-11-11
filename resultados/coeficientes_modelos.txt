@@ -1,0 +1,50 @@
+Entrenados con 2003-2025 (1104 filas). ICEN máximo observado (icen_pos): 2.92
+
+== MODELO A: ICEN
+AIC 2926.9 | pseudo R2 0.175 | alpha 1.772
+                                 coef  p_valor  efecto_multiplicativo
+Intercept                     -0.3861   0.0856                 0.6797
+C(departamento)[T.LAMBAYEQUE] -0.6032   0.0002                 0.5471
+C(departamento)[T.PIURA]       0.4311   0.0034                 1.5390
+C(departamento)[T.TUMBES]     -1.2948   0.0000                 0.2739
+C(mes_num)[T.2]                1.4199   0.0000                 4.1367
+C(mes_num)[T.3]                1.7815   0.0000                 5.9385
+C(mes_num)[T.4]                0.6198   0.0082                 1.8586
+C(mes_num)[T.5]               -0.5550   0.0330                 0.5741
+C(mes_num)[T.6]               -1.2907   0.0000                 0.2751
+C(mes_num)[T.7]               -1.7228   0.0000                 0.1786
+C(mes_num)[T.8]               -1.6322   0.0000                 0.1955
+C(mes_num)[T.9]               -1.8846   0.0000                 0.1519
+C(mes_num)[T.10]              -1.4913   0.0000                 0.2251
+C(mes_num)[T.11]              -1.2711   0.0000                 0.2805
+C(mes_num)[T.12]              -1.2541   0.0000                 0.2853
+tendencia                      0.0760   0.0000                 1.0790
+icen_pos                       0.2375   0.0237                 1.2681
+icen_pos:lluviosa              0.3583   0.0754                 1.4309
+alpha                          1.7720   0.0000                 5.8824
+
+== MODELO B: ICEN + lluvia
+AIC 2852.5 | pseudo R2 0.198 | alpha 1.369
+                                 coef  p_valor  efecto_multiplicativo
+Intercept                     -0.3075   0.1509                 0.7352
+C(departamento)[T.LAMBAYEQUE] -0.6329   0.0000                 0.5311
+C(departamento)[T.PIURA]       0.4228   0.0019                 1.5263
+C(departamento)[T.TUMBES]     -1.2324   0.0000                 0.2916
+C(mes_num)[T.2]                1.5163   0.0000                 4.5552
+C(mes_num)[T.3]                1.7341   0.0000                 5.6638
+C(mes_num)[T.4]                0.7373   0.0008                 2.0902
+C(mes_num)[T.5]               -0.5448   0.0275                 0.5799
+C(mes_num)[T.6]               -1.3774   0.0000                 0.2522
+C(mes_num)[T.7]               -1.7875   0.0000                 0.1674
+C(mes_num)[T.8]               -1.7302   0.0000                 0.1772
+C(mes_num)[T.9]               -1.8851   0.0000                 0.1518
+C(mes_num)[T.10]              -1.6082   0.0000                 0.2002
+C(mes_num)[T.11]              -1.3326   0.0000                 0.2638
+C(mes_num)[T.12]              -1.2640   0.0000                 0.2825
+tendencia                      0.0734   0.0000                 1.0761
+icen_pos                       0.2448   0.0127                 1.2773
+icen_pos:lluviosa             -0.0945   0.6119                 0.9098
+lluvia_rel                     1.2115   0.0048                 3.3585
+lluvia_rel:lluviosa            0.4806   0.3113                 1.6171
+alpha                          1.3688   0.0000                 3.9307
+

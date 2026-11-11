@@ -1,0 +1,54 @@
+evento,ambito,lugar,indicador,valor,unidad,fecha_corte,fuente,url,nota
+1982-83,nacional,Perú,perdidas_economicas,3283.0,millones USD,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,
+1982-83,nacional,Perú,perdidas_pct_pbi,11.6,% PBI 1983,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,Total; el BCRP da 5.3% solo para sectores productivos
+1982-83,nacional,Perú,perdidas_pct_pbi_sectores_productivos,5.3,% PBI,,BCRP Reporte de Inflación jul-2014 recuadro 1,https://www.bcrp.gob.pe/docs/Publicaciones/Reporte-Inflacion/2014/julio/ri-julio-2014-recuadro-1.pdf,Base distinta al 11.6%
+1982-83,nacional,Perú,poblacion_afectada,1267730.0,personas,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,
+1982-83,region,Norte del Perú,poblacion_afectada,831915.0,personas,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,El sur sumó 435815
+1982-83,nacional,Perú,personas_sin_vivienda,587120.0,personas,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,
+1997-98,nacional,Perú,perdidas_economicas,3500.0,millones USD,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,46% directos y 54% indirectos
+1997-98,nacional,Perú,perdidas_pct_pbi,6.2,% PBI 1998,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,En conflicto con CAF (4.5%)
+1997-98,nacional,Perú,perdidas_pct_pbi,4.5,% PBI,,CAF - Las lecciones de El Niño Perú,https://dipecholac.net/docs/files/996-publicacion-caf-peru-nino-97-98.pdf,En conflicto con Andina (6.2%)
+1997-98,nacional,Perú,viviendas_destruidas,42000.0,viviendas,,Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,"""más de 42 000"""
+1997-98,nacional,Perú,emergencias,653.0,emergencias,1997-12 a 1998-06,INDECI vía Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,
+1997-98,nacional,Perú,damnificados,531104.0,personas,1997-12 a 1998-06,INDECI vía Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,Otra fuente: más de 545000 y 340 fallecidos
+1997-98,departamento,PIURA,damnificados,120000.0,personas,1997-12 a 1998-06,INDECI vía Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,Aproximado
+1997-98,departamento,LA LIBERTAD,damnificados,72306.0,personas,1997-12 a 1998-06,INDECI vía Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,
+1997-98,departamento,LAMBAYEQUE,damnificados,71756.0,personas,1997-12 a 1998-06,INDECI vía Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,
+1994-2012,departamento,PIURA,danos_vivienda_acumulados,445.5,millones S/,,Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,El evento 1997-98 explica el 91.26% de las pérdidas de vivienda por inundación 1994-2012 en 4 departamentos
+1994-2012,departamento,LAMBAYEQUE,danos_vivienda_acumulados,236.3,millones S/,,Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,
+1994-2012,departamento,TUMBES,danos_vivienda_acumulados,25.2,millones S/,,Machuca (IGP/IEP 2017),https://argumentos-historico.iep.org.pe/wp-content/uploads/2017/05/MACHUCA_11_1_2017.pdf,
+2017,nacional,Perú,perdidas_economicas,3000.0,millones USD,,BCRP vía Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,
+2017,nacional,Perú,perdidas_pct_pbi,1.6,% PBI,,BCRP vía Andina (2023),https://andina.pe/agencia/noticia-como-impacto-nino-peru-los-eventos-19821983-19971998-y-2017-943812.aspx,
+2017,nacional,Perú,fallecidos,143.0,personas,2017-05,SINPAD vía CENEPRED/SIGRID doc 3690,https://sigrid.cenepred.gob.pe/sigridv3/documento/3690/descargar,Otras cifras: 162 (Andina) y 169 (Expreso)
+2017,nacional,Perú,damnificados,231874.0,personas,2017-05,SINPAD vía CENEPRED/SIGRID doc 3690,https://sigrid.cenepred.gob.pe/sigridv3/documento/3690/descargar,
+2017,nacional,Perú,afectados,1129013.0,personas,2017-05,SINPAD vía CENEPRED/SIGRID doc 3690,https://sigrid.cenepred.gob.pe/sigridv3/documento/3690/descargar,
+2017,departamento,TUMBES,damnificados,380.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,TUMBES,afectados,21792.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,TUMBES,viviendas_colapsadas,5.0,viviendas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,PIURA,damnificados,19093.0,personas,2017,INDECI vía OPS,https://www.paho.org/es/peru/emergencia-por-impacto-fenomeno-nino-costero-peru-2017,Corte posterior al 19-mar
+2017,departamento,PIURA,afectados,225782.0,personas,2017,INDECI vía OPS,https://www.paho.org/es/peru/emergencia-por-impacto-fenomeno-nino-costero-peru-2017,
+2017,departamento,PIURA,viviendas_colapsadas,2266.0,viviendas,2017,INDECI vía OPS,https://www.paho.org/es/peru/emergencia-por-impacto-fenomeno-nino-costero-peru-2017,Además 2203 inhabitables
+2017,departamento,PIURA,fallecidos,16.0,personas,2017,INDECI vía Peru21,https://peru21.pe/lima/fenomeno-nino-costero-dejo-63-muertos-norte-74731-noticia/,
+2017,departamento,LAMBAYEQUE,damnificados,41237.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,LAMBAYEQUE,afectados,93486.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,LAMBAYEQUE,viviendas_colapsadas,4483.0,viviendas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,LA LIBERTAD,damnificados,3606.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano; no incluye los huaicos de Trujillo posteriores
+2017,departamento,LA LIBERTAD,afectados,17071.0,personas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,LA LIBERTAD,viviendas_colapsadas,542.0,viviendas,2017-03-19,COEN/INDECI vía Mongabay,https://es.mongabay.com/2017/03/peru-ninocostero-rios/,Corte temprano
+2017,departamento,ANCASH,fallecidos,23.0,personas,2017,INDECI vía Peru21,https://peru21.pe/lima/fenomeno-nino-costero-dejo-63-muertos-norte-74731-noticia/,
+2017,region,Norte del Perú,fallecidos,63.0,personas,2017,Peru21,https://peru21.pe/lima/fenomeno-nino-costero-dejo-63-muertos-norte-74731-noticia/,
+2017,ciudad,Trujillo,afectados,200000.0,personas,2017-03,Correo (14-mar-2026),https://diariocorreo.pe/edicion/la-libertad/a-nueve-anos-del-desastre-trujillo-sigue-expuesto-la-libertad-peru-noticia/,"""al menos""; quebradas San Ildefonso, San Carlos y El León"
+2017,ciudad,Trujillo,viviendas_colapsadas,4000.0,viviendas,2017-03,Correo (14-mar-2026),https://diariocorreo.pe/edicion/la-libertad/a-nueve-anos-del-desastre-trujillo-sigue-expuesto-la-libertad-peru-noticia/,Aproximado
+2017,ciudad,Huarmey,pct_viviendas_danadas,50.0,% viviendas,2017,INGEMMET vía SIGRID doc 3677,https://sigrid.cenepred.gob.pe/sigridv3/documento/3677/descargar,"""más del 50%"""
+2017,ciudad,Piura (estación UDEP),lluvia_acumulada_hasta_mediados_marzo,410.0,mm,2017-03-15,UDEP Hoy,https://www.udep.edu.pe/hoy/2017/lluvias-atipicas-con-unas-consecuencias-muy-tipicas/,Todo 2016: 160 mm
+2017,ciudad,Piura (estación Miraflores),lluvia_maxima_24h,87.2,mm,2017-03,Correo,https://diariocorreo.pe/peru/fenomeno-el-nino-piura-soporto-la-peor-lluvia-desde-1998-noticia/?outputType=amp,
+2023,nacional,Perú,fallecidos,85.0,personas,2023-04,INDECI vía Gestión,https://gestion.pe/peru/lluvias-en-peru-van-dejando-85-fallecidos-51-mil-damnificados-y-14-desaparecidos-indeci-noticia/,Andina da 84
+2023,nacional,Perú,damnificados,51000.0,personas,2023-04,INDECI vía Gestión,https://gestion.pe/peru/lluvias-en-peru-van-dejando-85-fallecidos-51-mil-damnificados-y-14-desaparecidos-indeci-noticia/,Aproximado
+2023,nacional,Perú,afectados,300000.0,personas,2023-04,INDECI vía Gestión,https://gestion.pe/peru/lluvias-en-peru-van-dejando-85-fallecidos-51-mil-damnificados-y-14-desaparecidos-indeci-noticia/,Aproximado
+2023,nacional,Perú,viviendas_destruidas,6639.0,viviendas,2023-04,INDECI vía Gestión,https://gestion.pe/peru/lluvias-en-peru-van-dejando-85-fallecidos-51-mil-damnificados-y-14-desaparecidos-indeci-noticia/,Andina da 6197; además 13132 inhabitables
+2023,departamento,PIURA,fallecidos,8.0,personas,2023-03,COER Piura vía Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,
+2023,departamento,PIURA,damnificados,1014.0,personas,2023-03,COER Piura vía Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,
+2023,departamento,PIURA,afectados,9280.0,personas,2023-03,COER Piura vía Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,
+2023,departamento,PIURA,viviendas_destruidas,73.0,viviendas,2023-03,COER Piura vía Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,Además 269 inhabitables y 3847 afectadas
+2023,departamento,PIURA,distritos_en_emergencia,50.0,distritos de 65,2023-03-03,Mongabay,https://es.mongabay.com/2023/03/desbordes-inundaciones-por-lluvias-en-piura-peru/,
+2023,ciudad,Trujillo,viviendas_colapsadas,1200.0,viviendas,2023-03,Trome,https://trome.com/actualidad/nacional/ciclon-yaku-fuertes-lluvias-en-distintas-regiones-han-dejado-un-saldo-de-9-fallecidos-lluvias-cambio-climatico-trcm-noticia/,Aproximado; 1312 en la región

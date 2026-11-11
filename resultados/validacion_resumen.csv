@@ -1,0 +1,7 @@
+anio,modelo,predicho,p10,p90,observado,error_%,mae_depto_mes
+2017,Línea base (promedio histórico),49.9,,,379,-86.8,16.5
+2017,A: ICEN,65.5,33.0,104.0,379,-82.7,15.8
+2017,B: ICEN + lluvia,432.7,163.0,800.1,379,14.2,20.9
+2023,Línea base (promedio histórico),68.6,,,499,-86.2,21.7
+2023,A: ICEN,97.7,50.0,155.0,499,-80.4,20.2
+2023,B: ICEN + lluvia,381.9,177.0,626.1,499,-23.5,12.7
